@@ -1,25 +1,30 @@
-#ptt_tables
-- folder containing ptt tables for each genome
-- downloaded and renamed from ncbi
-    
+Scripts and data for Hynes et al. 2016 MBE paper
+------------------------------------------------
 
-#all_gta_rhodo.fa
+## bin
+- folder with scripts
+
+## results
+    - contains folder of analysis.
+    - folders are named based on the date they were started.
+
+<!-- # all_gta_rhodo.fa
 - fasta contatning all gta related genes (not regulatory)
 - copied and downloaded using:
         In tulpar:
         `find -iname e*bestPara.fa -exec cat {} > test.fa \;` 
         In local:
-        `scp mshakya@tulpar.dartmouth.edu:/data2/mshakya/GTA/results/2014-02-06/blastNparse/test.fa .`
+        `scp mshakya@:/data2/mshakya/GTA/results/2014-02-06/blastNparse/test.fa .`
 - it will be used to subset the ptt tables
-
-# *.tre
+ -->
+<!-- # *.tre
 - phylogenetic gene trees
 
 # lang_genoplot.R
 - Rscript to generate genoplots
 - TODOS: need a way to color these genes
-
-#NOTE:
+ -->
+<!-- #NOTE:
 `python ../GTA-git/bin/subset_ptt_table.py -i Rcap_GTA_associated_genes.ptt -f all_gta_rhodo.fa -o test.ptt`
     this script is used to subset the ptt table
 
@@ -35,4 +40,4 @@
 
 #For making the cgplot
 `java -jar ~/Downloads/cgview/cgview.jar -i ptt_tables/Octadecabacter_antarcticus_gta.ptt -o test.jpg -f jpg -W 1000 -A 12 -U 10`
--need a way to make this prettier, probably in R
+-need a way to make this prettier, probably in R -->
