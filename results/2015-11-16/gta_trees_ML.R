@@ -45,7 +45,7 @@ rcc171<-read.tree("rcc171_dir/rcc171_viral_LC_un_.tre")
 
 #2. rcc555
 #setwd("~/Desktop/GTA/LangPaper/results/2015-10-05/GTAs/")
-# decided not to use the new one (2015-12-03), as the only difference 
+# decided not to use the new one (2015-12-03), as the only difference
 # compared to 2015-10-05 is one taxa
 # and even the shape looks the same too
 #setwd("~/Desktop/GTA/LangPaper/results/2015-12-03/GTAs/")
@@ -100,11 +100,12 @@ orfg7 <- read.tree("orfg7_dir/orfg7_LC_viral_rhodo_.tre")
 orfg8 <- read.tree("orfg8_dir/orfg8_LC_viral_rhodo_.tre")
 
 #16. orfg9
-setwd("~/Desktop/GTA/LangPaper/results/2015-09-30")
-#no viral homologs
-orfg9 <- read.tree("rspr_/orfg9_blastp_psiblast_rhodo_only_bestPara.tre")
+setwd("~/Desktop/GTA/LangPaper/results/2016-05-27/orfg9/")
+orfg9 <- read.tree("raxml_trees/RAxML_bipartitions.viral_LC_mapped")
+#orfg9 <- read.tree("rspr_/orfg9_blastp_psiblast_rhodo_only_bestPara.tre")
 
 #17. orfg10
+setwd("~/Desktop/GTA/LangPaper/results/2015-09-30")
 #no viral homologs
 orfg10 <- read.tree("rspr_/orfg10_blastp_psiblast_rhodo_only_bestPara.tre")
 
@@ -161,7 +162,7 @@ colorBranch(rcc555, list(c(1:18, 25:27, 31, 77), c(28:30), c(32,33)),
             col=c("#d95f02", "#377eb8", "purple3"),
             type="unrooted", show.tip.label=FALSE,
             x.lim=lim[2,], y.lim=lim[2,])
-# use bottom option when using older tree 
+# use bottom option when using older tree
 #colorBranch(rcc555, c(1:17, 20:22, 71, 76),
 #            col=c("#d95f02", "#377eb8", "purple3"),
 #            type="unrooted", show.tip.label=FALSE,
@@ -275,15 +276,15 @@ box()
 #15. orfg9
 # no viral homologs, only rhodobacterales.
 # drop Caulo
-orfg9_d<-drop.tip(orfg9, "Caulobacter_crescentus_CB15")
-colorBranch(orfg9_d, list(c(1:21), c(), c()),
+# orfg9_d<-drop.tip(orfg9, "Caulobacter_crescentus_CB15")
+colorBranch(orfg9, list(c(1:20,38), c(37), c(36)),
             col=c("#d95f02", "#377eb8", "purple3"),
             type="unrooted", show.tip.label=FALSE,
             x.lim=lim[15,], y.lim=lim[15,])
 add.scale.bar(0,0,0.5, lwd=3, cex=4)
-text(-5, -5, "no viral homologs detected", pos=3, cex=5)
+# text(-5, -5, "no viral homologs detected", pos=3, cex=5)
 box()
- 
+
 #16. orfg10
 orfg10_d <- drop.tip(orfg10, "Caulobacter_crescentus_CB15")
 colorBranch(orfg10_d, list(c(1:21)),

@@ -10,8 +10,8 @@ HEADER='qseqid sstart send sframe sseqid pident qlen slen length mismatch gapope
 #######################################################################################################################
 # analysis I: preparation
 #######################################################################################################################
-GTAs := orfg2 orfg3 orfg4 orfg5 orfg6 orfg7 orfg8 orfg11 orfg12 orfg13 orfg14 orfg15
-
+# GTAs := orfg2 orfg3 orfg4 orfg5 orfg6 orfg7 orfg8 orfg9 org10 orfg11 orfg12 orfg13 orfg14 orfg15
+GTAs := orfg9 org10
 GTAsPrep:$(foreach var, $(GTAs), GTAs/$(var)_dir) \
 		 $(foreach var, $(GTAs), GTAs/$(var)_dir/$(var)_LC.fa) \
 		 $(foreach var, $(GTAs), GTAs/$(var)_dir/$(var)_LC_UN.fa) \
