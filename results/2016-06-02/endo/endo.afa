@@ -1,0 +1,616 @@
+>gi|17736969|ref|NP_524573.1| hypothetical protein phi-8Sp4 [Pseudomonas phage phi8]
+--------------------------------------------------------MTAR
+SQQMAERIVVREGG--YWDDPG--AGPTNF--GIVQSTLNR-----LRSRPRWVG---LP
+ANVKDLKREQAVEI-------------IRVEYVEAQKAHL---MLPMIGEVIADTVVM--
+-----SWDD-GVRILQKLLG---------FEGKAIDGIVGKNTIGRSDQI---------P
+AFLDKTIAGLIVREFLDDR-------KGKQFVG-------GWSNRLHK------------
+-------------VLEGEYV----------------------------------------
+------------------------------------------------------------
+>gi|389060199|ref|YP_006383331.1| hypothetical protein TSMG0051 [Halocynthia phage JM-2012]
+-------------------------------------------------------MSEVT
+RKSIILFYYGVEGG--MVDIKDDKGGLTARG-GMTKTKLDE-HKASWG-EYSFYG-----
+-DMSNIPYELYEYI-------------MTVDFWDKLWGDELLEIDPKLIDALYGWAIN--
+-----SSPYYPVKAMQKHLCVMNLKQTR-YRDTAVDGGMGQHTYDTLIMYLEACKDRRPI
+QKLLGTIFSCQHVHYLNISYERSEE-RNETFTD-------GWFNRIMD------------
+-------------KVERLS-----------------------------------------
+------------------------------------------------------------
+>gi|674660399|ref|YP_009052556.1| putative N-acetylmuramidase [uncultured phage crAssphage]
+---------------------------------------------------------MAY
+FGDAFKKLSIKEGG--YVNDKDDAGGETYR--GISRKYNPT-WQ-------GWTMIDSYK
+KHYTVGSKEFKSKLDNDVQLQKLVWEKYKIGYWDVFELDDF--NSQRVAEQLFDTNVN--
+-----CGQVAAIKMAQRVLG------------LKETG-----------------------
+--------------------------RWNL----------DLLNKLIE------------
+-------------IKD--------------------------------------------
+------------------------------------------------------------
+>gi|526178196|ref|YP_008242020.1| glycosyl hydrolase [Cellulophaga phage phi10:1]
+----------------------------------------MNLDYYKNIVSKHQEEFELF
+KDKFFPIVMKWEGGGELHNVKGDSGGWTIW--GIAYNYNKA----------LFDD----F
+NDFLDTTREEAAYI-------------AFVKYYLSANAEL---VPMEAKLYYFDMCYN--
+-----MGVSRGIKILQKCIG------------VNADGKIGNITKSKIHNVTEC-------
+-----CLMIERNKFYNRLVENNY---KMGKFIK-------GWLNRSKG------------
+-------------IFDFKY-----------------------------------------
+------------------------------------------------------------
+>gi|526177025|ref|YP_008240882.1| glycosyl hydrolase [Cellulophaga phage phi19:3]
+----------------------------------------MNLDYYKNIVRNHPEEFELF
+KNKFFPIVMKWEGGGELHNVKGDSGGWTIW--GIAYNYNKA----------LFDD----F
+NDFKDTTREEASYI-------------AFVKYYLAANAEL---VPMDAKLYYFDMCYN--
+-----MGVSRGIKILQKCIG------------VNADGRIGNITKSKIHNVTEC-------
+-----CLMIERNKFYNRLVENNY---KMGKFIK-------GWLNRSKG------------
+-------------IFDFKY-----------------------------------------
+------------------------------------------------------------
+>gi|526177286|ref|YP_008241131.1| glycosyl hydrolase [Cellulophaga phage phi46:3]
+----------------------------------------MNLDYYKNIVRNHPEEFELF
+KNKFFPIVMKWEGGGELHNVKGDSGGWTVW--GIAYNYNKA----------LFDD----F
+NDFKDTTLEEAAYI-------------AFVKYYLAANAEL---VPMDSKLYYFDMCYN--
+-----MGVSRGIKILQKCIG------------VNADGRIGNITKSKIHNVTEC-------
+-----CLMIERNKFYNRLVENNY---KMGKFIK-------GWLNRSKG------------
+-------------IFDFKY-----------------------------------------
+------------------------------------------------------------
+>gi|526177449|ref|YP_008241285.1| glycosyl hydrolase [Cellulophaga phage phi18:3]
+----------------------------------------MNLDYYKNIVRNHPEEFELF
+KNKFFPIVMKWEGGGELHNVKGDSGGWTVW--GIAYNYNKA----------LFDD----F
+NDFKDTTLEEAAYI-------------AFVKYYLAANAEL---VPMDSKLYYFDMCYN--
+-----MGVSRGIKILQKCIG------------VNADGRIGNITKSKIHNVTEC-------
+-----CLMIERNKFYNRLVENNY---KMGKFIK-------GWLNRSKG------------
+-------------IFDFKY-----------------------------------------
+------------------------------------------------------------
+>gi|526178294|ref|YP_008242117.1| glycosyl hydrolase [Cellulophaga phage phi13:2]
+----------------------------------------MNLDYYKNIVRNHPEEFELF
+KNKFFPIVMKWEGGGKLHNVKGDSGGWTVW--GIAYNYNKA----------LFDD----F
+NDFKDTTLEEAAYI-------------AFVKYYLAANAEL---VPMDAKLYYFDMCYN--
+-----MGVSRGIKILQKCIG------------VNADGRIGNITKSKIHNVTEC-------
+-----CLMIERNKFYNRLVENNY---KMGKFIK-------GWLNRSKG------------
+-------------IFDFKY-----------------------------------------
+------------------------------------------------------------
+>gi|371496247|ref|YP_004957395.1| unnamed protein product [Planktothrix phage PaV-LD]
+MIFNNLMMLGATGFTIIGLLQSPAIQSVAGTTQVSGDISKAEAPEDIKKAVSEAGISDPS
+FAWAISHILKVEGG--WSNHPADGGGKTKF--GIIESVAKR-H--------GI-------
+-NVSTITLPQAIKI-------------YYQDYWLQSGADK---AQKPLNLAIMNSYVN--
+-----SG----KKW----------------------GISGATPL----------------
+-EQAKNYIQKQDDYYTSIYTSRP---SQTVFKT-------GWHRRTKY------------
+-------------MMDAVNGGNPSW-----------------------------------
+------------------------------------------------------------
+>gi|294676112|ref|YP_003576727.1| hypothetical protein RCAP_rcc00555 [Rhodobacter capsulatus SB 1003]
+---------------------------------------------------------MRS
+VYEIAKEIVAREGG--YVNDPSDPGGATNY--GVTLGTLRR-----LGLDLNRDG-VVSA
+RDLRLVSPDQAAEI-------------YVSQYFKAPKLDQ---LPAVVQAPVFDMQVN--
+-----AG-AHAIRILQELLGRMGHP-------VAVDGVLGPQTIAAAQAAAAR-----DP
+QLFVDAYGIARRNYYYDLADRRP---ASRKYATTRAGGKGGWILRAEA------------
+-------------FISPRFHLSAAQHRARVAAWG--------------------------
+------------------------------------------------------------
+>gi|99080966|ref|YP_613120.1| hypothetical protein TM1040_1125 [Ruegeria sp. TM1040]
+----------------------------------------------------------MD
+VVKIAQEIVAREGG--YVNDPDDPGGATKH--GVTIHTMRR-----LGLDLTGDE-RVDA
+RDVQALSRKEAVEI-------------FLREYYRRPRLHL---LPAPLQPSVFDMHVN--
+-----AG-GNAVRILQELLCEMGYD-------LSVDGVIGPHTAKAAAAAGAV-----NM
+DALVNAYGIARRNYYFQLAERRP---QSRKYARTRAGKKGGWIRRAEE------------
+-------------FIAPRYHLTVAEFHTRTAHWA--------------------------
+------------------------------------------------------------
+>gi|119386682|ref|YP_917737.1| hypothetical protein Pden_3975 [Paracoccus denitrificans PD1222]
+---------------------------------------------------------MKT
+VTQIAAEIVAREGG--YVNDPDDPGGATNY--GVTLATLQR-----LGIDKTGDG-RVDV
+ADVRALTRADAERI-------------FVEHYFRRPRLAE---LPASVQASVFDMYVN--
+-----AG-SNAVKILQRLVTRMGFA-------AADDGLVGPRTILAAQQADAA-----AP
+GYFADAYGIARRNYDYSLGDARP---ASRKYARTQSGGKGGWILRAEE------------
+-------------FISARYHLTLAEHRARVAKWG--------------------------
+------------------------------------------------------------
+>gi|530318982|ref|YP_008404975.1| hypothetical protein JCM7686_2107 [Paracoccus aminophilus JCM 7686]
+---------------------------------------------------------MKS
+VEQIATEIVAREGG--FVNDPNDPGGATKY--GVSLATMRR-----LGLDLTRDG-KIDV
+ADVKALSAAQAQAI-------------FIEHYFRKPGLGE---LPETLWASVFDMYVN--
+-----SG-SMAVKLLQRLVTRMGFA-------AKDDGLIGPKTLAAARAAAKA-----AP
+GHLGDAYGIARRNYYYALADSRP---ASRKYARTTTGEKGGWIRRAEE------------
+-------------FISPKYHLTAAEHRMRIAKWA--------------------------
+------------------------------------------------------------
+>gi|568303349|ref|YP_008975634.1| Putative secretion activating protein [Phaeobacter gallaeciensis DSM 26640]
+---------------------------------------------------------MQD
+IKAIAQEIVAREGG--YVDDPDDPGGATKH--GVTLGALQR-----LGMDLTRDG-RIDK
+ADVAAVSQAQAVDL-------------YIRHYFNKPRIAA---LPEMLHPSVFDMYVN--
+-----AG-ANAVRILQRLLVQMGYE-------LAVDGRIGPKTAGAARAAAKV-----GR
+VALRDAYGVARRNYYFRIADRRP---ASRKYARTRKGGKGGWILRAES------------
+-------------FISPRYHLSEAEFQARVSSWG--------------------------
+------------------------------------------------------------
+>gi|400754560|ref|YP_006562928.1| peptidoglycan binding-like protein [Phaeobacter gallaeciensis 2.10]
+---------------------------------------------------------MQD
+IKAIAHEIVAREGG--YVDDPDDPGGTTNH--GVTLGTLQR-----FDMDLTGDG-RIDR
+ADVAAVSVDQAAEL-------------YIRHYFNTPRIAA---LPEVLHPSVFDMYVN--
+-----AG-ANAVRILQRLLVQMGYQ-------LAVDGRIGPQTAGAARKAAKI-----GR
+VALRDAYGVARRNYYFRIADRRP---ASRKYARTRKGGKGGWILRAES------------
+-------------FVSPQYHLSEAEFQARVAAWG--------------------------
+------------------------------------------------------------
+>gi|399992883|ref|YP_006573123.1| peptidoglycan binding domain-containing protein [Phaeobacter inhibens DSM 17395]
+---------------------------------------------------------MQD
+IKAIAHEIVAREGG--YVDDPDDPGGATNH--GVTLGTLRR-----FDMDLTGDG-RIDR
+ADVAAVSVDQAAEL-------------YIRHYFNTPRIAA---LPEVLHPSVFDMYVN--
+-----AG-ANAVRILQRLLVQMGYQ-------VAVDGRIGPQTAGAAREAARI-----GR
+VALRDAYGVARRNYYFRIADRRP---VSRKYARTRKGGKGGWILRAES------------
+-------------FVSPQYHLSEAEFQARVAAWG--------------------------
+------------------------------------------------------------
+>gi|56696754|ref|YP_167115.1| hypothetical protein SPO1878 [Ruegeria pomeroyi DSS-3]
+---------------------------------------------------------MQT
+VRQIAQEIVAREGG--FVNDPDDPGGATNF--GVTIHTMRR-----LGMDITGDG-AVDV
+ADVRALSREQAVEI-------------FLTHYYARPRIGE---MPEAVQASLFDMYVN--
+-----AG-GNAVKILQRLLRDMGYE-------VSVDGAIGPQTLRAAQDAATP-----RP
+EALRDAYGVARRNYYFRLADRRP---ASRKYARTRAGGKGGWIKRAEE------------
+-------------FMAPEYRLSDAEFQRRVSGWD--------------------------
+------------------------------------------------------------
+>gi|568283534|ref|YP_008971454.1| peptidoglycan binding-like protein [Leisingera methylohalidivorans DSM 14336]
+---------------------------------------------------------MQT
+VLEIAAQIVAREGG--FVNDPEDPGGATKY--GVTIGTLRR-----LGLDLTGDG-TVDP
+ADVRALSRAQAIEI-------------FIRHYFEAPRIAA---LPECLQATVFDMYVN--
+-----AG-SNAVRILQRLLCEMGYS-------VAVDGTVGPQTAGAAADAAAI-----GA
+TALRDAYGVARRNYYFRLADRRP---SSRKYARTRAGGKGGWIKRAEE------------
+-------------FISPGYRLNRQAFQERIAAWG--------------------------
+------------------------------------------------------------
+>gi|146276949|ref|YP_001167108.1| hypothetical protein Rsph17025_0900 [Rhodobacter sphaeroides ATCC 17025]
+---------------------------------------------------------MQT
+VQQIAKEIVAREGG--FVNDPDDPGGATRY--GVTIATLRR-----LGFDTTGDG-RIGL
+EDVRAVTRAQAEAI-------------FVEHYFRRPGIGN---LPEVLHPGLFDMYVN--
+-----AG-SNAVKILQRLVSEMGFP-------CTADGAIGPQTIRQTQAAHEA-----AP
+DHLADAYAVARRNFYYALADGRP---SSRKYARRKDGGKGGWILRAEE------------
+-------------FMAPRYRLTDAQHRERTASWA--------------------------
+------------------------------------------------------------
+>gi|126462358|ref|YP_001043472.1| hypothetical protein Rsph17029_1590 [Rhodobacter sphaeroides ATCC 17029]
+---------------------------------------------------------MQS
+IQDIARQIVAREGG--FVEDPDDPGGATNR--GVTLATLRR-----LGFDTTGDG-KVQV
+EDVRALTHAQAEAI-------------FIEHYFRRPGLGN---LPEPLQPGVFDMYVN--
+-----AG-STAVRLLQKLLADMGFA-------CTADGIVGPQTIRQAQAAIEA-----AP
+THLADAYAIARRNWYYALADSRP---ASRKYARRKDGGKGGWIVRAEE------------
+-------------FMAPRYRLTEAQHRERTAAWA--------------------------
+------------------------------------------------------------
+>gi|77463502|ref|YP_353006.1| putative secretion activating protein [Rhodobacter sphaeroides 2.4.1]
+---------------------------------------------------------MQS
+IQDIARQIVAREGG--FVEDPDDPGGATNR--GVTLATLRR-----LGFDTTGDG-KVQV
+EDVRALTHAQAESI-------------FIEHYFRRPGLGN---LPEPLQPGVFDMYVN--
+-----AG-STAVRLLQKLLADMGYP-------CTADGIVGPQTIRQAQAAIEA-----AP
+AHLADAYAIARRNWYYALADSRP---ASRKYARRKDGGKGGWIVRAEE------------
+-------------FMAPRYRLTEAQHRERTAAWA--------------------------
+------------------------------------------------------------
+>gi|221639363|ref|YP_002525625.1| hypothetical protein RSKD131_1264 [Rhodobacter sphaeroides KD131]
+---------------------------------------------------------MQS
+IQDIARQIVAREGG--FVEDPDDPGGATNR--GVTLATLRR-----LGFDTTGDG-KVQV
+EDVRALTHAQAESI-------------FIEHYFRRPGLGN---LPEPLQPGVFDMYVN--
+-----AG-STAVRLLQKLLADMGFA-------CAADGIVGPQTIRQAQAAIEA-----AP
+AHLADAYAIARRNWYYALADSRP---ASRKYARRKDGGKGGWIVRAEE------------
+-------------FMAPRYRLTEAQHRERTAAWA--------------------------
+------------------------------------------------------------
+>gi|478177761|ref|YP_007698834.1| hypothetical protein DUF847 [Octadecabacter arcticus 238]
+---------------------------------------------------------MND
+VNQIAEEIVTREGG--YVNDPDDPGGATNF--GVTIHTISR-----LGLDLDHDG-VVTE
+QDVRMLSREQAVAI-------------FINHYFERPRIRD---LPAALHASVFDMYVN--
+-----AG-ANAVRILQRLLRDMRID-------VGVDGVIGQQTIAGAQQGMAA-----AV
+DHFVDAYGIARRNYYYALADARP---TSRKYARRLDGGKGGWITRAEE------------
+-------------FISPRYHLSHDEHRERIAQWV--------------------------
+------------------------------------------------------------
+>gi|478183389|ref|YP_007704459.1| DUF847 family protein predicted to be peptidoglycan-binding [Octadecabacter antarcticus 307]
+---------------------------------------------------------MND
+VSQIAEEIVAREGG--YVNDPDDPGGATNF--GVTIHTMRR-----LGLDLDRNG-QVNE
+QDVRVLSREQAVAI-------------FIEHYFERPRIRD---LPAELHASVFDMYVN--
+-----AG-SNAVRILQRLLRDMRID-------VTVDGVIGPQTIAGVQQGMAA-----AV
+DHFVDAYGIARRNYYYSLADARP---ASRKFARRLDGGKGGWITRAEE------------
+-------------FISLRYHLSHDQHRERTAKWV--------------------------
+------------------------------------------------------------
+>gi|110680406|ref|YP_683413.1| hypothetical protein RD1_3225 [Roseobacter denitrificans OCh 114]
+------------------------------------------------------------
+------------------MIPDDPGGATNF--GVTIHTMRR-----LGLDLDRDG-SVTV
+ADVRALTADQAIEI-------------FEKHYFQKPLIAM---LPQPLHATVFDMYVN--
+-----AG-SNAIKILQRLLRDMGHD-------LVVDGALGPKSIGATQAAFSH-----AP
+EHLVDAYGIARRNYYFRIGDRRA---ASRKFARTRAGGKGGWIKRAEE------------
+-------------FISARYHLTDEQFQERVASWA--------------------------
+------------------------------------------------------------
+>gi|339503956|ref|YP_004691376.1| hypothetical protein RLO149_c024450 [Roseobacter litoralis Och 149]
+---------------------------------------------------------MQT
+VREIAKEIVRREGG--FVNDPDDPGGATNF--GVTIHTMRR-----LGLDLDHDG-SVTE
+ADVRALTVDQAIDI-------------FEKHYFQKPLIAM---LPQPMHATVFDMYVN--
+-----AG-SNAVKILQRLLRDMGHD-------LVVDGALGPKSIGAAQAAFAN-----AP
+DHLVDAYGIARRNYYFRIGDRRS---ASRKFAKTRAGGKGGWIKRAEE------------
+-------------FISARYHLTDQQFKERVAAWA--------------------------
+------------------------------------------------------------
+>gi|89054825|ref|YP_510276.1| hypothetical protein Jann_2334 [Jannaschia sp. CCS1]
+---------------------------------------------------------MQS
+VRSIAETIVAREGG--FVNDPDDPGGATKH--GVTIHTMRS-----LGLDLDGDG-DVDV
+ADVRRITPQIATDL-------------FLEHYFNRPNIHM---LPEPLQASVFDMQVN--
+-----AG-SNAVRILQRLLRDMGLD-------IAVDGAIGPQTARAAYAALGD-----AP
+DHLVDAYGIARRNYYYRIGDRRP---ASRKYARRRNGGKGGWIVRAEE------------
+-------------FISPRYHLTLAQHRERTASWG--------------------------
+------------------------------------------------------------
+>gi|159044306|ref|YP_001533100.1| hypothetical protein Dshi_1757 [Dinoroseobacter shibae DFL 12 = DSM 16493]
+---------------------------------------------------------MRN
+VQHLAKEIVAREGG--YVNDPDDPGGATKY--GVTIHTMRR-----LGLDLTGDG-TITP
+QDVKKLSRAQAEEI-------------FVKRYFEAPKIGL---LPEALHATVFDMYVN--
+-----AG-SNAVRILQRLLRDMGLD-------VSVDGAIGPQTAKAAHAAHDA-----AP
+SHLVDAYGIARRNYYYRIADRRA---ASRKYARRKDGGKGGWITRAEE------------
+-------------FISPRFHLTEAEHRARTASWG--------------------------
+------------------------------------------------------------
+>gi|435844350|ref|YP_007006466.1| putative membrane protein [Agrobacterium phage 7-7-1]
+----------------------------------------------------MIAAMIDE
+FKRSLAKVLVHEGG--KVDNKNDPGGRTNQ--GVIQRTYDA-----WRRRKGLKT-----
+RDVFLMTNDERDDI-------------YYGQYWELIKGDR---LAPGVSYVVFDGAVN--
+-----SGVSQSVKWLQRALG------------VKADGVIGNETISALHSNQ-------DH
+DRLIARILELRMAFLKALT-------TWKHFGK-------GWTARVNG------------
+-------------VRSVGQAWAMGSVGPEVQFVPNGNQRANITDAKKPPATGPADASTGA
+GSISVVISQTTEQLTPLTNIEFVANAVAVLTIAGAALAIGGIAYRVWAKRRAAELKEALA
+>gi|712913468|ref|YP_009100334.1| lysozyme [Shewanella sp. phage 1/4]
+-------------------------------------------------MLNSYNNSPQF
+VKTFIETTIKHEGGDKYTDDKNDSGGKTRY--GVTEKATLK-Y-KDYFHLYQWDG-----
+-NMKTLPLAFAQDL-------------YAHEYFMVPKFNLVAEVSQMVAQELFDTSVN--
+-----VGTSRPSKWLQEELNLCNRREVD-YKDIIADGKIGSKTISALEAFLGKRGS-SGE
+VMLYNNLNCCQHQHYRQCALNEGANDKDENFYV-------GWCENRLN------------
+-------------FKYVEEI----------------------------------------
+------------------------------------------------------------
+>gi|722120980|ref|YP_009104025.1| lysozyme [Shewanella sp. phage 1/40]
+-------------------------------------------------MLNSYNNSPQF
+VKTFIETTIKHEGGDKYTDDKNDSGGKTRY--GGTEKATLK-Y-KDYFHLYQWDG-----
+-NMKTLPLAFAQDL-------------YAHEYFMVPKFNLVAEVSQMVAQELFDTSVN--
+-----VGTSRPSKWLQEELNLCNRREVD-YKDIIADGKIGSKTISALEAFLGKRGS-SGE
+VMLYNNLNCCQHQHYRQCALNEGANDKDENFYV-------GWCENRLN------------
+-------------FKYVEEI----------------------------------------
+------------------------------------------------------------
+>gi|338827197|ref|YP_004539128.1| hypothetical protein LIMEzero_ORF55 [Pantoea phage LIMEzero]
+---------------------------------------------------------MSN
+FDTCMKFTGLAEGG--YTNLPGDPGGETNY--GISDNRDGV-RDGMVSGVPGAPG----P
+VPVKQLTHDQALAI-------------YRRDYYAPIRGDA---LPLPVAVAVFDYAVN--
+-----SGVGTAAKALQRACS------------VTVDGKIGPATVAQAKSL--------NA
+RSLAQSVCNLRVQMLEQSTAP-----GVVKYRA-------ALIARAKR------------
+-------------CAAFAQTL---------------------------------------
+------------------------------------------------------------
+>gi|725950284|ref|YP_009101396.1| endolysin [Enterobacteria phage J8-65]
+---------------------------------------------------------MTN
+FEICMKFTGLAEGG--YTKLPGDTGGETNH--GISDARDGKLDGRICGVPTGLGG--SIC
+VPVKQLTKEQANAI-------------YRAEYFDPIKGDE---LHPAIACAVFDYGVN--
+-----SGISRAAKALQRVCG------------VAQDGVIGPATVAAAKRL--------EP
+HSAAASICDLRIAFLKASTAP-----TIVRYRD-------ALVARAKR------------
+-------------CSAYCATL---------------------------------------
+------------------------------------------------------------
+>gi|849120804|ref|YP_009148443.1| N-acetylmuramidase [Delftia phage RG-2014]
+----------------------------------------------MAMTPKKAGGIAAI
+IASILGGTVALEQG--YSNNPKDPGGATNH--GITEKVARA-H--------DYTG-----
+-DMRDLPVETALDI-------------YAESYVHKPGFTEIVARSPALGKRVIDGGVN--
+-----VGTRQMSLWFQRGLNAVSRDGKD-FPKVVVDGNIGPGTIASYVGLEKKRGRVAAC
+QVMIKLIDGQQTMHYMSLE-------KMTDFTY-------GWMTNRIG------------
+-------------HVPLEECNEKPPV----------------------------------
+------------------------------------------------------------
+>gi|589889396|ref|YP_009004780.1| putative N-acetylmuramidase [Achromobacter phage JWAlpha]
+--------------------------------------------MAITKSLYANKGKAGV
+VAAILAAVFAVEGG--YVNNPLDPGGETNH--GVTAATAAK-HRQALVEQ-GWDG-----
+-RMKSLTKSMAESI-------------YVKDYVSGPGFDLVIPNSPAVAEKLVDAGVN--
+-----VGTSRSGKWFQEALNSASRGGKD-YPKITSDGKVGPATIQAYQALQRKRGAVVAC
+KMVIKMMDGKQTVHYLSI--------NMDDFVP-------GWIINRIG------------
+-------------NVPLESCNEDTNPQ---------------------------------
+------------------------------------------------------------
+>gi|589892049|ref|YP_009008415.1| hypothetical protein psb1_0014 [Shigella phage pSb-1]
+-------------------------------------------MKAKQKLAAKGGAVGGV
+IAAILGAVFYMEGG--YVNNPRDPGGETNH--GITQSVAKT-HKEVLATEYGWDG-----
+-SMKGLSKEMAAEI-------------YIDDYVLKPNFVAFADISPAVTHKLVDAGVN--
+-----TGVTRPAKWLQLSLNEMSRDGKD-YPKIQVDGKVGTSTVNAYKALQKKRGKVAAC
+QVMIKLLDAKQLNHYTSL--------NMPDFTY-------GWVANRIG------------
+-------------NVPLEACNEDANL----------------------------------
+------------------------------------------------------------
+>gi|410492031|ref|YP_006908838.1| hypothetical protein ECBP1_0069 [Escherichia phage ECBP1]
+-------------------------------------------MKAKQKLATKGGAVGGV
+VAAILGAVFYMEGG--YVNNPRDPGGETNH--GITQAVAKS-HKEVLATEYGWDG-----
+-SMKGLSKEMAAEI-------------YIDDYVLKPNFVAFADISPAVTHKLVDAGVN--
+-----TGVTRPAKWLQQSLNEMSRDGKD-YPKIQVDGKVGTSTVNAYKALQKKRGKVAAC
+QVMIKLLDAKQLNHYTSL--------NMPDFTY-------GWVANRIG------------
+-------------NVPLEACNEDANL----------------------------------
+------------------------------------------------------------
+>gi|640884670|ref|YP_009031979.1| N-acetylmuramidase [Enterobacteria phage Bp4]
+------------------------------------------------------------
+----------MEGG--YVNNPRDPGGETNH--GITQAVAKS-HKEVLATEYGWDG-----
+-SMKGLSKEMAAEI-------------YIDDYVLKPNFVAFADISPAVTHKLVDAGVN--
+-----TGVTRPAKWLQLSLNEMSRNGKD-YPKIQVDGKVGTSTVNAYKALQKKRGKVAAC
+QVMIKLLDAKQLNHYTSL--------NMPDFTY-------GWVANRIG------------
+-------------NVPLEACNEDANL----------------------------------
+------------------------------------------------------------
+>gi|414090499|ref|YP_006990610.1| hypothetical protein IME11_5 [Enterobacter phage IME11]
+-------------------------------------------MKAKQKLAAKGGAVGGV
+VAAILGAVFYMEGG--YVNNPRDPGGETNH--GITQSVAKT-HKEVLATEYGWDG-----
+-SMKGLSKEMAAEI-------------YIDDYVLKPNFVAFADISPAVTHKLVDAGVN--
+-----TGVTRPAKWLQISLNEMSRNGKD-YPKIQVDGKVGASTVNAYKALQKKRGKAEAC
+KVMIKLLDAKQLNHYTSL--------NMPDFTY-------GWVANRIG------------
+-------------NVPLEACNEDANL----------------------------------
+------------------------------------------------------------
+>gi|345461895|ref|YP_004782192.1| unnamed protein product [Escherichia phage vB_EcoP_G7C]
+-------------------------------------------MKAKQKLAAKGGAVGGV
+IAAILGAVFYMEGG--YVNNPRDPGGETNH--GITHSVAKS-HQEVLATEYGWDG-----
+-SMKGLSKEMAAEI-------------YIDDYVIKPNFVAFADISPAVTYKLVDAGVN--
+-----TGVTRPAKWLQQSLNEMSRNGKD-YPKVQVDGKVGAGTVNAYKALQKKRGKVAAC
+QVMIKLLDAKQLNHYTSL--------NMPDFTY-------GWVANRIG------------
+-------------NVPLEACNEDANL----------------------------------
+------------------------------------------------------------
+>gi|682123878|ref|YP_009056197.1| putative N-acetylmuramidase [Escherichia phage vB_EcoP_PhAPEC7]
+-------------------------------------------MKAKQKLAAKGGAVGGV
+VAAILGAVFYMEGG--YVNNPRDPGGETNH--GITQSVAKS-HKEVLATEYGWDG-----
+-SMKGLSKEMAAEI-------------YIDDYVLKPNFVAFADISPAVTHKLVDAGVN--
+-----TGVTRPAKWLQQSLNEMSRNGKD-YPKVQVDGKVGAGTVNAYKALQKKRGKVAAC
+KVMIKLLDAKQLNHYTSL--------NMPDFTY-------GWVANRIG------------
+-------------NVPLEACNEDANL----------------------------------
+------------------------------------------------------------
+>gi|682123255|ref|YP_009055575.1| putative N-acetylmuramidase [Escherichia phage vB_EcoP_PhAPEC5]
+-------------------------------------------MKAKQKLAAKGGAVGGV
+VAAILGAVFYMEGG--YVNNPRDPGGETNH--GITQSVAKS-HKEVLATEYGWDG-----
+-SMRGLSKEMAAEI-------------YIDDYVLKPNFVAFADISPAVTHKLVDAGVN--
+-----TGVTRPAKWLQQSLNEMSRNGKD-YPKVQVDGKVGAGTVNAYKALQKKRGKVAAC
+QVMIKLLDAKQLNHYTSL--------NMPDFTY-------GWVANRIG------------
+-------------NVPLEACNEDANL----------------------------------
+------------------------------------------------------------
+>gi|589891217|ref|YP_009007458.1| lytic transglycosylase [Erwinia phage Ea9-2]
+---------------------------------------------MPAVNKKAVGGIGGV
+AAAIIAAVFAVEGG--YVNDPKDPGGETNH--GITKQVAQQ-N--------GYTG-----
+-AMKDLTMEMAGSI-------------YYKDYIEKPGFVPMIDVSPNVTWKLVDAGVN--
+-----TGTARPSRWFQTGLNSLSRGGKD-YPQINVDGKVGSGTIAAYKSLQKLRGKVKAC
+ELMLKSLDGQQLGYYMSLT-------NLSQYTV-------GWIDNRIG------------
+-------------NVPYSNCQQEK------------------------------------
+------------------------------------------------------------
+>gi|119952230|ref|YP_950539.1| N-acetylmuramidase [Escherichia phage N4]
+----------------------------------------------MAISKKKVGGVGGV
+IAAIIAAVFAVEGG--YVNDPKDPGGETNH--GVTIQVAQK-HKQELESMYNWDG-----
+-SMKNLTQEMASSI-------------YYNDYILKPGFVKFADVSPAVTEKLVDAGVN--
+-----TGPARPSRWLQESLNAFSRNGKD-YPKIQVDGKVGSGTLSAYKSLQNKRGKVEAC
+KLILKSLDGKQLNYYLSL--------NMPEYTT-------GWIANRIG------------
+-------------NVPLERCNEDIVN----------------------------------
+------------------------------------------------------------
+>gi|119386794|ref|YP_917849.1| hypothetical protein Pden_4087 [Paracoccus denitrificans PD1222]
+--------------------------------------------------------MRSN
+FDRCLAETLAHEGG--WADDPRDAGGATMK--GITFATYRA-----------WKKRPITK
+AELRNITDAEVAAI-------------YRQNYWDAVRGDD---LPAGLDLVAFDASVN--
+-----SGVSRGAKWLQSALG------------VTADGMIGPQTIAAAKAA--------HP
+EAVIDRAISARLAFLRVAKNTKTGAVLWPTYGK-------GWTRRVES------------
+-------------VREEAIAMSKVTTPNATKPAAPSAGIIAALLALFKSPFGGKS-----
+------------------------------------------------------------
+>gi|848469659|ref|YP_009146188.1| putative endolysin/secretion activator protein [Sulfitobacter phage NYA-2014a]
+---------------------------------------------------------MDN
+SSKAIPKILEHEGG--FVNHPSDPGGATNK--GITLATFRR-----YIKPNGTVA-----
+-DLKALTTAQAVAV-------------YKRQYWDAVSADL---LPSGVDYAVADFAVN--
+-----SGPSRAAKYLQAVVG------------VTQDGQIGPATIAAAKAM--------PP
+RAVIERLCDDRLAFMKRIQGGK----LWQTFGR-------GWQRRVDD------------
+-------------VRAVSLSWAAQAPVDHVAPSTPATPPQRSIWAALASLLAGFFGKDEA
+------------------------------------------------------------
+>gi|472341946|ref|YP_007675459.1| lysozyme/endolysin/secretion activator protein [Sulfitobacter phage pCB2047-A]
+---------------------------------------------------------MDN
+SSKAIPKILEHEGG--FVNHPSDPGGATNK--GITLATFRR-----YIKPNGTVA-----
+-DLKALTTAQAVAV-------------YKRQYWDAVSADL---LPSGVDYAVADFAVN--
+-----SGPSRAAKYLQAVVG------------VTQDGQIGPATIAAAKAM--------PP
+RAVIERLCDDRLAFMKRIQGGK----LWQTFGR-------GWQRRVDD------------
+-------------VRAVSLSWAAQAPVDHVAPSTPATPPQRSIWAALASLLAGFFGKDEA
+------------------------------------------------------------
+>gi|472341758|ref|YP_007675273.1| lysozyme/endolysin/secretion activator protein [Sulfitobacter phage pCB2047-C]
+---------------------------------------------------------MDN
+SSKAIPKILEHEGG--FVNHPSDPGGATNK--GITLATFRR-----YIKPNGTVA-----
+-DLKALTTAQAVAV-------------YKRQYWDAVSADL---LPSGVDYAVADFAVN--
+-----SGPSRAAKYLQAVVG------------VTQDGQIGPATIAAAKAM--------PP
+RAVIERLCDDRLAFMKRIQGGK----LWQTFGR-------GWQRRVDD------------
+-------------VRAVSLSWAAQAPVDHVAPSTPATPPQRSIWAALASLLAGFFGKDEA
+------------------------------------------------------------
+>gi|418487864|ref|YP_007002095.1| putative endolysin [Brucella phage Pr]
+------------------------------------------------------------
+----------------------------MK--GVTIATFRA-----FVNPKGTKA-----
+-DLRKITDAQLETV-------------YRRQYWDKVHGAE---LPDGVDFAVFDYAVN--
+-----SGPSRAVKDLQKVVG------------VSQDGKVGPKTLEAIKSM--------GS
+RNVINKLCDTRLAFMKRARDKKTKKILWPTFGK-------GWTKRVAG------------
+-------------VRDFALGLSSKPTPERPSVVTKEVDKPVMPTSVDKEVKKKFSLAGWL
+GTLFSGGGIGALGLAGFGWRELLALGAVALVVLLGGLALRGWIVKAIKDIRQELNDA---
+>gi|418487715|ref|YP_007002038.1| putative endolysin [Brucella phage Tb]
+--------------------------------------------------------MDRN
+FKVSLKEVLKHEGG--WADHPSDPGGATMK--GVTIATFRA-----FVNPKGTKA-----
+-DLRKITDAQLETV-------------YRRQYWDKVHGAE---LPDGVDFAVFDYAVN--
+-----SGPSRAVKDLQKVVG------------VSQDGKVGPKTLEAIKSM--------GS
+RNVINKLCDTRLAFMKRARDKKTKKILWPTFGK-------GWTKRVAG------------
+-------------VRDFALGLSSKPTPERPSVVTKEVDKPVMPTSVDKEVKKKFSLAGWL
+GTLFSGGGIGALGLAGFGWRELLALGAVALVVLLGGLALRGWIVKAIKDIRQELNDA---
+>gi|99081491|ref|YP_613645.1| hypothetical protein TM1040_1650 [Ruegeria sp. TM1040]
+--------------------------------------------------------MQKN
+FDRSLDWVLAHEGG--YVNHPKDPGGATNM--GVTQRTYDA----------DLRRRQLSS
+RSVKLITMEEVKAI-------------YRSQYWDKVGGDE---LPGGLDYCVFDFAVN--
+-----SGVSRAVKFMQRQLG------------VKADGIVGVNTMEAVDRA--------DV
+EGLIQSICQARFSWLKKLR-------HWGTFGR-------GWTRRVMGESLGVQARDTGV
+IDRAVYLHRELAVIHAPSYREDGSGARAEDGERSLSATVKELITSGKGWTNGGALGGGAI
+ALTQLQGPVAYAVAAALLIAAVTVALYFLRSQEAAA------------------------
+>gi|99080667|ref|YP_612821.1| hypothetical protein TM1040_0826 [Ruegeria sp. TM1040]
+--------------------------------------------------------MQKN
+FDRSLDWVLAHEGG--YVNHPKDPGGATNM--GVTQRTYDA----------DLRRRQLSS
+RSVKLITMEEVKAI-------------YRSQYWDKVGGDE---LPGGLDYCVFDFAVN--
+-----SGVSRAVKFMQRQLG------------VKADGIVGVNTMEAVDRA--------DV
+EGLIQSICQARFSWLKKLR-------HWGTFGR-------GWTRRVMGESLGVQARDTGV
+IDRAVYLHRELAVIHAPSYREDGSGARAEDGERSLSATVKELITSGKGWTNGGALGGGAI
+ALTQLQGPVAYALAAVLLIAAVTAALYFLRSQEAEA------------------------
+>gi|99081445|ref|YP_613599.1| hypothetical protein TM1040_1604 [Ruegeria sp. TM1040]
+--------------------------------------------------------MQKN
+FDRSLDWVLAHEGG--YVNHPKDPGGATNM--GVTQRTYDA----------DLRRRQLSS
+RSVKLITMEEVKAI-------------YRSQYWDKVGGDE---LPGGLDYCVFDFAVN--
+-----SGVSRAVKFMQRQLG------------VKADGIVGVNTMEAVDRA--------DV
+EGLIQSICQARFSWLKKLR-------HWGTFGR-------GWTRRVMGESLGVQARDTGV
+IDRAVYLHRELAVIHAPSYREDGSGARAEDGERSLSATVKELITSGKGWTNGGALGGGAI
+ALTQLQGPVAYALAAVLLIAAVTAALYFLRSQEAAA------------------------
+>gi|460042628|ref|YP_007518058.1| hypothetical protein [Pelagibacter phage HTVC008M]
+--------------------------------------------------------MSNK
+FKEALEIILHHEGG--YVNHPKDPGGETNL--GVTKRVYEE-F--------GGTK-----
+-DMKDLTHEDVAPI-------------YKKGYWDKCKCDD---LPSGLDLCVFDFAVN--
+-----AGPGRAAKYLQSCVGA-----------LPIDGGIGPMTLAKVNEYVEKF----NV
+EYAVENYQKNRQNYYEELS-------TFATFGR-------GWTRRVEE------------
+-------------TTETAKSWI--------------------------------------
+------------------------------------------------------------
+>gi|388570740|ref|YP_006383724.1| hypothetical protein [Salisaeta icosahedral phage 1]
+----------------------------------------------------------MG
+FDRALSEVLVLEGN--YSDHQDDPGGQTKW--GITEGLARE-Y--------GYNG-----
+-AMGRLPKRTARAI-------------YHDLFWRPLWCDKVTDRSSEVALELFEAAVNID
+KPDADTRESLPVRWLQEWLNLLNRQERD-WQDIAEDGIMGPVTLEALDAYLAVR----DE
+PELVAALNSSQAIYYKSIAAHNP---VFESFLN-------GWMKQRIR------------
+-------------L----------------------------------------------
+------------------------------------------------------------
+>gi|530787758|ref|YP_008433375.1| putative lytic transglycosylase [Pseudomonas phage PaBG]
+---------------------------------------------------MLSKYADFT
+PRAIIADKTAVEGG--YVNNKKDSGGETNH--GITAALAND-YRDQLVVQFGWDG-----
+-TMRNLSIDMAYWL-------------YETHFWSRLYADDLMKRHALFADKLFDMAIN--
+-----MGVTTAGSYFQQVLNANNNQGTL-YADLKVDGWIGDKTLKALDAYIAKRGA-EGV
+NRMLIALLAEQGHHYLQLVQKRQ---KDEEFYY-------GWSGRVSR------------
+-------------DVGIYANILGLKP----------------------------------
+------------------------------------------------------------
+>gi|399528703|ref|YP_006560754.1| lysozyme [Burkholderia phage KL1]
+--------------------------------------------------MTTATNLPAN
+VKAKIDETIVAEGGDKYTNDPTDRGGPTKY--GITQATYNA-F--------GFIG-----
+-DVKNCTYDQAVQI-------------YALRYWSQPGFDKVGDIHAGLAFEMFDWGVT--
+-----SGPSRPSQALQRSLNVLNQQAKD-YPDISADGRIGPMTLHALQSFVSRRGV-EGL
+RYLVEMVQALRRVFYMEISERDQ---SQEKYAN-------GWQSRIK-------------
+------------------------------------------------------------
+------------------------------------------------------------
+>gi|389060072|ref|YP_006383225.1| hypothetical protein CR3_210 [Cronobacter phage CR3]
+------------------------------------------------------MPVRFS
+KEGIIRAKVNIEAG--YVNNKNDLGGETNH--GITIATARE-F--------GYKG-----
+-AMKDLTVAQALDI-------------YDRGWWQRMWLDDILAISPAIADRLFDFGIN--
+-----SGRANAVKTLQRMLNVLNRQGKL-YGDIATDGGMGKNTLAALKAFQKARGD-KGI
+KVLAFALTCHQVSYYTDISEKRQ---ANEEFTY-------GWYDRVFR------------
+-------------EMPEYNVELGLCQK---------------------------------
+------------------------------------------------------------
+>gi|658310258|ref|YP_009042450.1| hypothetical protein CR8_213 [Cronobacter phage CR8]
+------------------------------------------------------MPARFS
+KEGIIRAKVNIEAG--YVNNKNDLGGETNH--GITIATARE-F--------GYKG-----
+-AMKDLTVAQALDI-------------YDRGWWQRMWLDDILAISPAIADRLFDFGIN--
+-----SGRANAVKTLQRMLNVLNRQGKL-YGDIATDGGMGKNTLAALKAFQKARGD-KGI
+NVLAFALTCHQVSYYTDVSEKRQ---ANEEFTY-------GWYDRVFR------------
+-------------EMPEYNVELGLCQK---------------------------------
+------------------------------------------------------------
+>gi|593777343|ref|YP_009015188.1| peptidoglycan binding domain-containing protein [Cronobacter phage CR9]
+------------------------------------------------------MPERFS
+KEGIIRAKVNIEAG--YVNNKNDLGGETNH--GITIATARE-F--------GYKG-----
+-AMKDLTVAQALDI-------------YDRGWWQRMWLDDILAISPAIADRMFDFGIN--
+-----SGRANAVKTLQRMLNVLNRQGKL-YGDIEPDGGMGKNTLAALKAFQKARGD-KGI
+NILAFALTCHQVSYYTDISEKRQ---ANEEFTY-------GWYDRVFR------------
+-------------EMPEYNVELGLCQK---------------------------------
+------------------------------------------------------------
+>gi|849122690|ref|YP_009153450.1| hypothetical protein SPN3US_0156 [Salmonella phage SPN3US]
+---------------------------------------------MTLSTQEVIVVDRWS
+KEGIIRAKVNIEAG--YVNNPKDLGKATNR--GVTELTARE-Y--------GYKG-----
+-DMRDLSLETALDI-------------YNKLWWQRMRLDQIMKMNVLLADRMFDFGIN--
+-----AGRGNCIKSLQRILNVLNRQGKL-YDDIDADGGIGPRTLTALDGFIKARGE-EGL
+NRLMFALTCHQVAYYTEISEERE---DNEEFTY-------GWYGRVYQ------------
+-------------EMPDYVAKLGMCK----------------------------------
+------------------------------------------------------------
+>gi|431810645|ref|YP_007237725.1| peptidoglycan domain protein [Erwinia phage phiEaH2]
+----------------------------------------------------MAAVARFS
+KEGIIRAKTAIEAG--YVNNPNDLGGETNH--GITIATARE-F--------GYTG-----
+-NMRDLTVEQALVI-------------YDKGWWQRMRLDQILAMNVMLADRLFDFGIN--
+-----AGRANAIKSLQRVLNVLNRQGKL-YSDIDADGGIGTLTLTALAGFIKARGA-EGL
+NRLMFALTCHQVAYYTEISEKRV---QNEEFTY-------GWYDRVYK------------
+-------------EMPDYVVQLGMCSK---------------------------------
+------------------------------------------------------------
+>gi|167832390|ref|YP_001686781.1| hypothetical protein HAPgp45 [Halomonas phage phiHAP-1]
+------------------------------------------------------MSIDTL
+KRQLIAEVIDREGG--YVNHPADRGGPTNW--GITIAVARR-H--------GYTG-----
+-DMRALSRQQAAAI-------------YAADYWHSLQLDEIAAFSTDLALVLFDFGVN--
+-----SGPGRAAEYLQRQLNVLNNRGRF-YADIAVDGSVGGETLKALVGFVAARGN-GGL
+EVLAHTINAERIVFCRGLAERSE---SQEAFTY-------GWFRRVVE------------
+-------------LLSNVLQQQPVPSHWLNEIAAVPRGGVL-------------------
+------------------------------------------------------------
+>gi|126010911|ref|YP_001039881.1| conserved putative phage-related protein [Vibrio phage VP882]
+------------------------------------------------------MDKQQA
+KSIAINEVIEREGG--YVNHPDDRGGPTRW--GVTQAKARE-H--------GYHG-----
+-DMRDYPVEAAFAV-------------YDADYWQRMKLDEIGDYSPDLAVKLFDFGVN--
+-----SGTGRAARHFQRLLNSLNNRGEF-YPDIKVDGAIGQKTLASLAGFYRKRGE-AGL
+AVLAQSLNGLRIAFCVGITEDNE---SQEVFAF-------GWLSRIVH------------
+-------------L----------------------------------------------
+------------------------------------------------------------
+>gi|428782784|ref|YP_007112536.1| hypothetical protein MAR_59 [Vibrio phage vB_VpaM_MAR]
+-----------------------------------------------------MTKALEM
+KAQAIDEVIDREGG--YVNHPKDKGGPTKY--GITEAKARE-H--------GYQG-----
+-HMADLTRAFAVRV-------------YEADFWDRLRLDEVSQYSPELAVYLFDFGVN--
+-----SGTGRAAKFLQRLLNSLNHCGEH-YPDIRVDGAVGRMTLQSLKGFYAKRGE-SGM
+NVLAHAVNGLRIAFCVGITEDNE---SQEVFAF-------GWLSRIVN------------
+-------------L----------------------------------------------
+------------------------------------------------------------
+>gi|27311185|ref|NP_758912.1| ORF19 [Vibrio phage VHML]
+-----------------------------------------------------MTKALEM
+KAQAIDEVIDREGG--YVNHPKDKGGPTKY--GITEAKARE-H--------GYQG-----
+-HIADLTRAFAVRV-------------YEADFWDRLRLDEVSQYSPELAVYLFDFGVN--
+-----SGTGRAAKFLQRLLNSLNHCGEH-YPDIRVDGAVGRMTLQSLKGFYAKRGE-SGM
+NVLAHAVNGLRIAFCVGITEDNE---SQEVFAF-------GWLSRIVN------------
+-------------L----------------------------------------------
+------------------------------------------------------------
+>gi|422935930|ref|YP_007005827.1| endolysin [Erwinia phage vB_EamP-S6]
+----------------------------------------------------------MN
+KTQIIDQVIGKEGG--YVNNPDDRGGPTKW--GITQKVARA-H--------GYTG-----
+-DMRNLSREQAVEI-------------FEADYWFGPRLDQVSAVSANIAAKLMDIGVN--
+-----MGPSVGVKFLQRWLNAFNLKGTL-YPDLAVDGMIGPRGLNALRAFLAKRGS-EGE
+SVLIKSLNCSQGARYLDIMEANQ---NQETFGY-------GWLKERVQ------------
+------------------------------------------------------------
+------------------------------------------------------------
+>gi|423262031|ref|YP_007010632.1| hypothetical protein BPABA456_00510 [Acinetobacter phage Bphi-B1251]
+----------------------------------------------------------MN
+IEKYLDELIKREGG--YVNNPADRGGATKY--GITEAVARA-N--------GFKG-----
+-NMRDLPLDVAKAI-------------YRKNYWTAPRFDQVNIISSAVAEELLDTGVN--
+-----CGTGFAKPLLQRALNLLNNNGKAGWPDLSVDGIYGPATLNALKTYLVKRGK-EGE
+KVLVRVLNIMQGQRYIEICERNP---SQEQFFY-------GWIANRVS------------
+-------------M----------------------------------------------
+------------------------------------------------------------
+>gi|593779786|ref|YP_009017614.1| phage endolysin [Psychrobacter phage Psymv2]
+---------------------------------------------------------MSI
+YDMIFNRLMDHEGG--YVNHPNDPGGETMY--GVTKRVAQA-H--------GYFG-----
+-DMRNLPKSLAKEI-------------TEKSYYKAVKGDQ---LDRLIAWQLTDAAYN--
+-----HGNRQAVKFLQRAVG------------ASADGLIGNRTLTAVAAM--------DK
+NDVVLLFNAERIEFYTGLR-------GWISFGK-------GWARRVAG------------
+-------------NLRFAASDN--------------------------------------
+------------------------------------------------------------
+>gi|431810312|ref|YP_007237195.1| putative endolysin [Pseudomonas phage AF]
+----------------------------------------------------------MD
+FNEAFDRLIGHEGG--YSNHPDDPGGATMW--GVTETVARS-W--------GYTG-----
+-DMRSLPRDTAKEI-------------YQALYWRRVRAEE---MPDAIRFDLFDTAVN--
+-----SGVVQAVKILQRAAG------------VTDDGVIGPKTLAAVRAM--------DP
+QRLDKRFSGYRLKFMTGLK-------NWPSFAK-------GWANRIAA------------
+-------------NLIED------------------------------------------
+------------------------------------------------------------
+>gi|41179364|ref|NP_958672.1| Bbp2 [Bordetella phage BPP-1]
+----------------------------------------------------------MD
+FDTAFDRLIGHEGG--YSNNPADPGGETMW--GVTAAVARA-N--------GYTG-----
+-PMRDMPRDTAKAI-------------YRARYWTPVRGDM---LPPAVAFQVFDAAVN--
+-----HGTGQAAKWLQAAVG------------TAQDGQIGPLTLNAAAGM--------NP
+TMLALLFNSARMMFYTNLP-------TWPTFGK-------GWARRVAG------------
+-------------NLKYAAEDI--------------------------------------
+------------------------------------------------------------
+>gi|45569496|ref|NP_996565.1| hypothetical protein BMP-1p02 [Bordetella phage BMP-1]
+----------------------------------------------------------MD
+FDTAFDRLIGHEGG--YSNNPADPGGETMW--GVTAAVARA-N--------GYTG-----
+-PMRDMPRDTAKAI-------------YRARYWTPVRGDM---LPPAVAFQVFDAAVN--
+-----HGTGQAAKWLQAAVG------------TAQDGQIGPLTLNAAAGM--------NP
+TMLALLFNSARMMFYTNLP-------TWPTFGK-------GWARRVAG------------
+-------------NLKYAAEDI--------------------------------------
+------------------------------------------------------------
+>gi|45580747|ref|NP_996613.1| hypothetical protein BIP-1p02 [Bordetella phage BIP-1]
+----------------------------------------------------------MD
+FDTAFDRLIGHEGG--YSNNPADPGGETMW--GVTAAVARA-N--------GYTG-----
+-PMRDMPRDTAKAI-------------YRARYWTPVRGDM---LPPAVAFQVFDAAVN--
+-----HGTGQAAKWLQAAVG------------TAQDGQIGPLTLNAAAGM--------NP
+TMLALLFNSARMMFYTNLP-------TWPTFGK-------GWARRVAG------------
+-------------NLKYAAEDI--------------------------------------
+------------------------------------------------------------
+>gi|414090350|ref|YP_006990464.1| hypothetical protein [Edwardsiella phage KF-1]
+-----------------------------------------------------------M
+YDKVIGRVLSHEGN--YTADPKDRGNWTSGKCGVGQLKGTK-Y--------GISAMSYPD
+LDIKGLTWEQAKAI-------------YKRDFWDKLNMTS---WPDVLDFQVFDAAVN--
+-----SGCGRAIKWLQWAAR------------VNDDGIVGPKTIAAVQAM--------DP
+NDVCLRFLGKRLRFMTETS-------TWNSYGK-------GWARRISD------------
+-------------NLLYAAEDN--------------------------------------
+------------------------------------------------------------
+>gi|418489254|ref|YP_007003107.1| hypothetical protein CP-T1_0067 [Vibrio phage CP-T1]
+---------------------------------------------------MLKVGEIMD
+FDKVFERVIGHEAG--YTDDPRDPGNWTGGKINVGTLKGTK-Y--------GIAANTYPD
+LDIKNLTETQAKEI-------------YYRDWWLALGMDR---FSSAMQFQMFDAAFN--
+-----HGMRNATKIFQRALG------------VKDDGIIGNNTMVAARSM--------DI
+NDKLMRFLAYRIRFYTSLR-------TFDTFGR-------GWSNRVAD------------
+-------------NLIYASEDN--------------------------------------
+------------------------------------------------------------
+>gi|712915557|ref|YP_009103290.1| lysozyme [Shewanella sp. phage 1/41]
+-----------------------------------------------------------M
+FHKVFDRVIGHEGG--FQKMPHDRGNWTSGIVGQGELKGTK-F--------GLSAMTYPT
+TNIEALTVDEAKMI-------------YFYDWWRPLNMDR---FHQSMQYQFFDAAIN--
+-----HGAVNATKMIQRAVA------------VNDDGIIGPMTLAEVNKM--------DI
+NDLLMLFIAERIKFFTQVS-------TFDEYGK-------GWMNRMAK------------
+-------------NLELAAEDN--------------------------------------
+------------------------------------------------------------
+>gi|589893596|ref|YP_009009740.1| putative lysozyme family protein [Vibrio phage PVA1]
+-----------------------------------------------------------M
+FYKSFERVIGHEGG--YTDDPNDRGNWTSGKVGEGELKGTK-F--------GISAMSYPH
+LDIKNLTLDEAQAI-------------YFNDFWVKDGIDQ---LPKAMQYQMFDASIN--
+-----HGFRNATKMLQRAVD------------VADDGIIGKNTMKAVGQY--------DQ
+LNLVLLFNNERLKFYTDIR-------TWSQYGK-------GWARRVAG------------
+-------------NLKLGSEDAE-------------------------------------
+------------------------------------------------------------
