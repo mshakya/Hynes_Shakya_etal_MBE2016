@@ -1,0 +1,94 @@
+- 2015-05-19
+
+
+- 2015-06-15
+
+- 2015-08-06
+    + circos plot
+
+- 2015-08-31
+    + Phylogeny of GTA genes with homologs that are derived from phages and also from genomes outside of alpha-proteobacteria.
+
+- 2015-09-11
+    + Phylogeny of GTA genes  (in cluster) with phage homologs
+
+- 2015-09-14
+    + Phylogeny of GTA genes outside the cluster with phage homologs.
+
+- 2015-09-25
+    + rerunnung of 2015-09-11 with updated blastp_psiblast.faa, previous one was missing few genes.
+
+- 2015-09-30
+    + running analysis with only rhodobacterales true GTAs.
+
+- 2015-10-02
+    + distance analysis of GTA genes in rhodobacterales.
+
+- 2015-10-03
+    + phylogeny of GTA genes in rhodobacterales with phage homologs.
+
+-2015-10-05
+    + phylogeny of GTA genes in Rhodobacterales outside the cluster with phage homologs
+
+- 2015-10-07
+    + surrounding gene analysis, genes surrounding other clusters of GTAs.
+
+-2015-10-12
+    + rooting some trees with rhizobiales
+
+-2015-10-13
+    + getting genomic context of surrounding genes of genes that have missing genes.
+
+-2015-10-22
+    + tblastx, all Rhodobacterales
+
+- 2015-10-27
+    + looking for other types of endolysin
+
+-2015-11-04
+    + genoplot of GTA cluster and surrounding gene, extended and systematically arranged from 2015-10-22
+
+-2015-11-05
+    + genoplot of endolysin and surrounding gene, extended and systematically arranged from 2015-10-22
+
+-2015-11-06
+    + genoplot of 1865-1866 and surrounding gene, extended and systematically arranged from 2015-10-22
+
+-2015-11-16
+    + phylogeny plots of maximum likelihood trees
+
+- 2015-11-19
+    + normalizing rSPR distances.
+
+- 2015-11-25
+    + phylogeny of rcc171 and rcc1079/rcc1080 with all genes from genbank
+
+- 2015-12-03
+    + phylogeny of rcc171, TF1, TF2 with viral homologs, now with low converage as it seems like it were missing homologs.
+
+- 2015-12-06
+    + phylogeny of rcc171 with subset of genes.
+
+- 2015-12-08
+    + phylogeny of rcc555 with subset of genes.
+
+- 2015-12-09
+    + genomic context of rcc171, TF1, TF2
+
+- 2015-12-10
+    + core genes of rhodobacterales list
+
+-2015-12-11
+    +
+
+- 2015-12-12
+    + PPD analysis using distance calculation directly from alignments
+
+-2015-12-13
+    + checking downstream genes of orfg15 for gene 16
+
+-2015-12-14
+    + variation of rcc171 phylogeny
+
+-2015-12-15
+    + concatenation of 1865 + 1866 alignment
